@@ -26,8 +26,7 @@ namespace FlipCoinAssignment
 				// COMPUTATION
 				for (int j = 0; j < coinNum; j++)
 				{
-					 randomMethod();
-					
+					 
 					if (coinNum < 0.5)
 						Tail_Count++;
 					else

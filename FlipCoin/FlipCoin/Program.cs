@@ -3,3 +3,4 @@ using FlipCoinAssignment;
 
 Console.WriteLine("Hello, World!");
 FlipCoin.randomMethod();
+LeapYear.Leapyear();
